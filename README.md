@@ -1,6 +1,12 @@
 # 💫 About Me:
 ¡Hola! Soy Jorge, Desarrollador web Frontend e ingeniero en Control y automatización de la universidad Distrital. <br><br>Durante mi formación profesional he podido desarrollar habilidades de comunicación y liderazgo. Tengo conocimientos en lenguajes como HTML, CSS, JavaScript, y frameworks populares como React y Angular. Además, estoy cómodo trabajando con bases de datos, API y herramientas de desarrollo front-end.<br><br>Mi pasión por estar al día con las últimas tendencias tecnológicas me ha llevado a mantenerme constantemente aprendiendo y mejorando mis habilidades. Además, disfruto colaborar en equipos multidisciplinarios y enfrentar desafíos que me permitan crecer como profesional.<br><br>Mi objetivo principal radica en continuar expandiendo mis conocimientos y perfeccionar de manera constante mis destrezas en el desarrollo frontend.<br><br>Si quieres saber mas sobre mi puedes conectar conmigo porLinkedIn, mandarme un correo o inclusto tomar un café.
 
+# Contact:
+![image](https://github.com/JorgeT0rr3s/JorgeT0rr3s/assets/110347879/cd49441f-9bed-40c8-8f0f-51c5ce38e6bd) torresor.jt@gmail.com  
+![image](https://github.com/JorgeT0rr3s/JorgeT0rr3s/assets/110347879/7148c31c-4ae3-478b-9c99-f98c1e875243) 321 849 68 63
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/torres_jorge1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/t0rr3sjorge) 
