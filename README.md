@@ -2,7 +2,7 @@
 ¡Hola! Soy Jorge, Desarrollador web Frontend e ingeniero en Control y automatización de la universidad Distrital. <br><br>Durante mi formación profesional he podido desarrollar habilidades de comunicación y liderazgo. Tengo conocimientos en lenguajes como HTML, CSS, JavaScript, y frameworks populares como React y Angular. Además, estoy cómodo trabajando con bases de datos, API y herramientas de desarrollo front-end.<br><br>Mi pasión por estar al día con las últimas tendencias tecnológicas me ha llevado a mantenerme constantemente aprendiendo y mejorando mis habilidades. Además, disfruto colaborar en equipos multidisciplinarios y enfrentar desafíos que me permitan crecer como profesional.<br><br>Mi objetivo principal radica en continuar expandiendo mis conocimientos y perfeccionar de manera constante mis destrezas en el desarrollo frontend.<br><br>Si quieres saber mas sobre mi puedes conectar conmigo porLinkedIn, mandarme un correo o inclusto tomar un café.
 
 # Contact:
- torresor.jt@gmail.com  
+ :email: torresor.jt@gmail.com  
  :telephone_receiver: 321 849 68 63
 
 
